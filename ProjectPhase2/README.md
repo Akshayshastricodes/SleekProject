@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://roldanjr.github.io/pomatez/">
-    <img src=".github/assets/logo.png" alt="Pomatez logo" width="56" height="56">
-  </a>
-</p>
+
 
 <h1 align="center">Pomatez</h1>
 
