@@ -21,5 +21,5 @@ Sleek All-In-One Workspace is our Final Year Project Developed by Group 5. It is
 
 
 
-<a href="http://example.com" target="_blank" rel="noopener noreferrer" onclick="window.open('[http://example.com](https://app.studytogether.com/welcome)','name','fullscreen=yes')">Link Text</a>
+<a href="[http://example.com](https://app.studytogether.com/welcome)" target="_blank" rel="noopener noreferrer" onclick="window.open('[http://example.com](https://app.studytogether.com/welcome)','name','fullscreen=yes')">Link Text</a>
 
