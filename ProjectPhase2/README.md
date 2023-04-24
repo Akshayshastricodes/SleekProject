@@ -20,5 +20,6 @@ Sleek All-In-One Workspace is our Final Year Project Developed by Group 5. It is
 - Ketaki Rane: 2JR20CS409
 
 [Project Live Demonstration](https://app.studytogether.com/welcome)
+[Project Live Demo 2](https://fiveable.me/session/sleek-all-in-one-workspace?id=NjM5ZGU2ZGEwNjAwZDViNmUwMDg2MTlh)
 
 Repository: Akshayshastri Dodwad
