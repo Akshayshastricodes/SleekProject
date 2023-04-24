@@ -20,6 +20,5 @@ Sleek All-In-One Workspace is our Final Year Project Developed by Group 5. It is
 - Ketaki Rane: 2JR20CS409
 
 
-
-<a href="[http://example.com](https://app.studytogether.com/welcome)" target="_blank" rel="noopener noreferrer" onclick="window.open('[http://example.com](https://app.studytogether.com/welcome)','name','fullscreen=yes')">Link Text</a>
+<a href="https://app.studytogether.com/welcome" target="_blank" rel="noopener noreferrer" onclick="window.open('https://app.studytogether.com/welcome', 'newwindow', 'fullscreen=yes'); return false;">Link</a>
 
