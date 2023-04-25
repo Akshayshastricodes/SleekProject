@@ -2,6 +2,6 @@
 Type=Application
 Name=Pomatez
 Icon=${SNAP}/meta/gui/icon.png
-Categories=Health and Fitness;Productivity;
-Exec=pomatez
+Categories=Health;Productivity;
+Exec=sleek
 Terminal=false
